@@ -13,6 +13,10 @@
 - [Advice for students applying to grad school (from a UW CSE professor)](https://homes.cs.washington.edu/~mernst/advice/apply-grad-school.html)
 - [How to contact prospective research supervisors](https://uvasrg.github.io/prospective/)
 - [Advice for grad school letter writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
+- [MIT Blog Post on she got into a Bio PhD program](https://mitadmissions.org/blogs/entry/applying-to-bio-phd/)
+  
+- [YT Playlist by Casey Fiesler with grad school advice](https://www.youtube.com/watch?v=p4QiJNPSdWs&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&ab_channel=CaseyFiesler) :video_camera:
+- [YT Video by Darren Lipomi: How to get into grad school?](https://www.youtube.com/watch?v=5KtmOlEIdTk&ab_channel=DarrenLipomi) 📹
 
 ## Doing research
 🔬 Some resources on how to do research.
