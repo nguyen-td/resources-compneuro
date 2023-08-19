@@ -17,7 +17,8 @@
 - [YT Video by Darren Lipomi: How to get into grad school?](https://www.youtube.com/watch?v=5KtmOlEIdTk&ab_channel=DarrenLipomi) 📹
 
 ## Doing research 🔬
-- [Pursuing meaningful work](https://github.com/nguyen-td/resources-compneuro/blob/main/res/Pursuing%20Meaningful%20Work.pdf) 
+- [Pursuing meaningful work](https://github.com/nguyen-td/resources-compneuro/blob/main/res/Pursuing%20Meaningful%20Work.pdf)
+- [A Twitter 🧵 on how to keep on top of the literature](https://twitter.com/mertrory/status/1581348060302835713)
 
 
 
