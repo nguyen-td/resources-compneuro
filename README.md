@@ -12,7 +12,7 @@
 - [What faculty members are looking for in a grad school application essay](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
 - [Advice for students applying to grad school (from a UW CSE professor)](https://homes.cs.washington.edu/~mernst/advice/apply-grad-school.html)
 - [How to contact prospective research supervisors](https://uvasrg.github.io/prospective/)
-- 
+- [Advice for grad school letter writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
 
 ## Doing research
 🔬 Some resources on how to do research.
