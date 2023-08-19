@@ -1,9 +1,7 @@
 # Resources dedicated to Computational Neuroscience
 📚 [This repository](https://github.com/satpreetsingh/awesome-compneuro) is also worth checking out!
 
-## Grad School
-🏫 Here are some resources related to grad school. It is currently biased towards CS programs, but the advice is applicable to other fields. 
-
+## Grad School 🏫
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - [How to do Research at the MIT AI Lab](https://nn.cs.utexas.edu/advice/mit.ai-research.pdf)
 - [The PhD Grind - A PhD Student Memoir](https://github.com/nguyen-td/resources-compneuro/blob/main/res/phd_grind.pdf)
@@ -18,9 +16,7 @@
 - [YT Playlist by Casey Fiesler with grad school advice](https://www.youtube.com/watch?v=p4QiJNPSdWs&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&ab_channel=CaseyFiesler) :video_camera:
 - [YT Video by Darren Lipomi: How to get into grad school?](https://www.youtube.com/watch?v=5KtmOlEIdTk&ab_channel=DarrenLipomi) 📹
 
-## Doing research
-🔬 Some resources on how to do research.
-
+## Doing research 🔬
 - [Pursuing meaningful work](https://github.com/nguyen-td/resources-compneuro/blob/main/res/Pursuing%20Meaningful%20Work.pdf) 
 
 
