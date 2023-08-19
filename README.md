@@ -1,2 +1,2 @@
 # resources-compneuro
-A list of resources dedicated to Computational Neuroscience including grad school stuff
+A list of resources dedicated to Computational Neuroscience, this includes material related to grad school.
