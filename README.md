@@ -8,6 +8,7 @@
 - [The Redbook - Some advice from Stanford CS PhD students](https://github.com/nguyen-td/resources-compneuro/blob/main/res/theredbook.pdf)
 - [Some advice on applying to CS programs from a UW CSE student](https://people.eecs.berkeley.edu/~justine/advice.pdf)
 - [What faculty members are looking for in a grad school application essay](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
+- [MIT - SOP structure with examples](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 - [Advice for students applying to grad school (from a UW CSE professor)](https://homes.cs.washington.edu/~mernst/advice/apply-grad-school.html)
 - [How to contact prospective research supervisors](https://uvasrg.github.io/prospective/)
 - [Advice for grad school letter writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
