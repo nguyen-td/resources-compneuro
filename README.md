@@ -15,6 +15,8 @@
 - [Advice for grad school letter writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
 - [MIT Blog Post on she got into a Bio PhD program](https://mitadmissions.org/blogs/entry/applying-to-bio-phd/)
 - [Applying to STEM programs](https://github.com/gwisk/gradguide)
+- [UC Berkeley SOP/Personal Statement writing guide](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/personal-statement/)
+- [Stanford Humanities Personal Statement writing guide](https://humsci.stanford.edu/prospective-students/guide-getting-grad-school/writing-your-personal-statements)
   
 - [YT Playlist by Casey Fiesler with grad school advice](https://www.youtube.com/watch?v=p4QiJNPSdWs&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&ab_channel=CaseyFiesler) :video_camera:
 - [YT Video by Darren Lipomi: How to get into grad school?](https://www.youtube.com/watch?v=5KtmOlEIdTk&ab_channel=DarrenLipomi) 📹
