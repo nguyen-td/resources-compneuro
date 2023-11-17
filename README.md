@@ -3,13 +3,14 @@
 
 ## Grad School 🏫
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+- [CMU SOP writing guide with examples](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf)
+- [MIT - SOP structure with examples](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 - [Stanford CS SOP](https://github.com/alrojo/me/blob/master/Stanford_CS_PhD_2020_SOP.pdf)
 - [How to do Research at the MIT AI Lab](https://nn.cs.utexas.edu/advice/mit.ai-research.pdf)
 - [The PhD Grind - A PhD Student Memoir](https://github.com/nguyen-td/resources-compneuro/blob/main/res/phd_grind.pdf)
 - [The Redbook - Some advice from Stanford CS PhD students](https://github.com/nguyen-td/resources-compneuro/blob/main/res/theredbook.pdf)
 - [Some advice on applying to CS programs from a UW CSE student](https://people.eecs.berkeley.edu/~justine/advice.pdf)
 - [What faculty members are looking for in a grad school application essay](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
-- [MIT - SOP structure with examples](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 - [Advice for students applying to grad school (from a UW CSE professor)](https://homes.cs.washington.edu/~mernst/advice/apply-grad-school.html)
 - [How to contact prospective research supervisors](https://uvasrg.github.io/prospective/)
 - [Advice for grad school letter writers](https://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
