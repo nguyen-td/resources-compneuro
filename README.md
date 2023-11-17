@@ -4,7 +4,7 @@
 ## Grad School 🏫
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - [CMU SOP writing guide with examples](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/grad-app-sop.pdf)
-- [MIT - SOP structure with examples](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
+- [MIT SOP structure with examples](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 - [Stanford CS SOP](https://github.com/alrojo/me/blob/master/Stanford_CS_PhD_2020_SOP.pdf)
 - [How to do Research at the MIT AI Lab](https://nn.cs.utexas.edu/advice/mit.ai-research.pdf)
 - [The PhD Grind - A PhD Student Memoir](https://github.com/nguyen-td/resources-compneuro/blob/main/res/phd_grind.pdf)
