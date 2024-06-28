@@ -28,8 +28,8 @@
 - [A Twitter 🧵 on how to keep on top of the literature](https://twitter.com/mertrory/status/1581348060302835713)
 
 ## PhD stories 📖
-- [The PhD Grind - A PhD Student Memoir]([https://github.com/nguyen-td/resources-compneuro/blob/main/res/phd_grind.pdf](https://github.com/nguyen-td/resources-compneuro/blob/main/res/the-phd-grind-a-phd-student-memoir-3.pdf))
+- [The PhD Grind - A PhD Student Memoir](https://github.com/nguyen-td/resources-compneuro/blob/main/res/the-phd-grind-a-phd-student-memoir-3.pdf)
 
 ## Other Computational Neuroscience repositories 🧠
-- [This repository](https://github.com/satpreetsingh/awesome-compneuro) 
+- [Satpreet Singh's repository](https://github.com/satpreetsingh/awesome-compneuro) 
 
