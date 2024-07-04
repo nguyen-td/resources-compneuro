@@ -26,6 +26,7 @@
 ## Doing research 🔬
 - [Pursuing meaningful work](https://github.com/nguyen-td/resources-compneuro/blob/main/res/Pursuing%20Meaningful%20Work.pdf)
 - [A Twitter 🧵 on how to keep on top of the literature](https://twitter.com/mertrory/status/1581348060302835713)
+- [Sam Gershman = Advice for young investigators](https://gershmanlab.com/docs/advice_young_investigators.pdf)
 
 ## PhD stories 📖
 - [The PhD Grind - A PhD Student Memoir](https://github.com/nguyen-td/resources-compneuro/blob/main/res/the-phd-grind-a-phd-student-memoir-3.pdf)
