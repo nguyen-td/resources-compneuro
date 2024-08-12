@@ -1,4 +1,5 @@
 # Resources dedicated to Computational Neuroscience
+A curated list of resources related to grad school, including how to get in and how to do research. Many resources are about how to get into CS programs but the general advice they give are applicable to other fields. This list will be extended to computational neuroscience resources, included stuff related to machine learning and signal processing.
 
 ## Applying to grad school 🏫
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
